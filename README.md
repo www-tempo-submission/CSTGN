@@ -85,4 +85,5 @@ For example:
 python3 train.py football 200 1 4 0.4 64 100 0.001 0.00001
 ```
 
-For more information, please read our paper at: ANONYMOUS LINK. 
+#### Contact & More Info
+For more information, please read our paper at: ANONYMOUS LINK or contact anom@anom.com . 
